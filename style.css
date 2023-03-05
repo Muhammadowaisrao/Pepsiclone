@@ -1,0 +1,310 @@
+.nav li {
+    display: flex;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 40px;
+    color: bisque;
+    /* justify-content: space-; */
+}
+
+.top {
+    position: sticky;
+}
+
+.nav {
+    /* opacity: 1; */
+    margin: auto;
+    padding: 0;
+    position: initial;
+    /* position: fixed; */
+    top: 0;
+    background-color: #0065c3;
+}
+
+.logopic:hover {
+    opacity: 0.5;
+    /* transform: rotate(3.142rad); */
+    /* transform: rotate(-0.25turn); */
+}
+
+.nav_li {
+    height: 100px;
+
+}
+
+.nav_li a {
+    color: white;
+}
+
+.nav div {
+    /* padding-left: 75px; */
+    display: flex;
+    justify-content: space-between;
+    padding-right: 25px;
+    position: sticky;
+}
+
+.nav img {
+    padding-left: 25px;
+    height: 60px;
+}
+
+.nav button {
+    height: 35px;
+    width: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    border-radius: 25px;
+    color: aliceblue;
+    background-color: #265abb;
+    border: 3px solid white;
+}
+
+.nav button:hover {
+
+    background-color: white;
+    color: #265abb;
+
+}
+
+div {
+    display: block;
+}
+
+.zero .left .contain1 {
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pzs-new-taste/pzs-can-nobug-mobile@2x.png);
+    background-size: auto 89.067vw;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    height: 76.453vw;
+    border: none;
+}
+
+.left {
+    background-color: black;
+}
+
+.right .img2 {
+    background-color: #070707;
+    align-items: center;
+    height: 300px;
+    margin: 140px 0px 0px 20px;
+}
+
+.right .img3 {
+    background-color: #070707;
+    align-items: center;
+    width: 550px;
+    margin: 20px 0px 0px 20px;
+}
+
+/* .zero .img1{
+
+width: 50%;
+    align-items: left;
+    position: absolute;
+    display: flex;
+    background-color: black;
+} */
+.img1 {
+    /* display: block;
+    position: absolute;
+    width: 21.547vw;
+    right: 19vw;
+    bottom: 51vw; 
+     */
+    /* position: relative; */
+    /* height: 250px;    */
+    padding: 95px 0 0 450px;
+}
+
+
+
+.main {
+    padding: 0;
+    margin: none;
+    background-color: #0065c3;
+}
+
+/* .free {
+    background-color: #0e0906;
+
+} */
+
+.free img {
+    /* padding-left: 200px;
+border: none; */
+}
+
+.nitro {
+    background-color: blue;
+}
+
+.nitro img {
+    padding: 50px 50px 50px 200px;
+}
+
+.nitro .heading {
+    padding: 170px 150px 0px 0px;
+}
+
+.nitro h5 {
+    text-align: center;
+    color: white;
+    margin-right: 150px;
+}
+
+.nitro button {
+    margin-left: 200px;
+    height: 35px;
+    border-radius: 25px;
+    color: aliceblue;
+    background-color: #265abb;
+    border: 3px solid white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.nitro button:hover {
+
+    /* opacity: 0.5px; */
+    background-color: white;
+    color: #265abb;
+
+}
+
+.better img {
+    border-radius: 0%;
+}
+
+.betterL {
+    height: 1000px;
+}
+
+/* .mango .img1{
+height: 20%;
+} */
+.video_container {
+    height: 100%;
+    width: 100%;
+}
+
+.heading img {
+    height: 350px;
+    /* padding-top: 200px; */
+    margin-top: 100px;
+}
+
+video {
+    width: 100%;
+}
+
+.favorite img {
+    padding: 120px 120px 120px 0px;
+}
+
+.favorite .text {
+    padding: 120px 120px 120px 80px;
+}
+
+.favorite button {
+    height: 35px;
+    border-radius: 25px;
+    color: aliceblue;
+    background-color: #265abb;
+    border: 3px solid white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.favorite button:hover {
+    /* opacity: 0.5px; */
+    background-color: white;
+    color: #265abb;
+}
+
+.favorite title {
+    padding: 120px 120px 120px 0px;
+}
+
+.social {
+    padding: 50px;
+}
+
+.social h1 {
+    font-family: Cervo Neue Black, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bolder;
+    font-weight: 400px;
+    font-size: 3rem;
+    text-align: center;
+    color: #0065c3;
+    /* height: 20px; */
+}
+
+.rotated:hover {
+    opacity: 0.5px;
+    transform: rotate(5deg);
+}
+
+.footer {
+    padding: 60px 30px 60px 30px;
+    height: 250px;
+    background-color: #0065c3;
+    display: flex;
+    /* display: inline-block; */
+    justify-content: space-between;
+}
+.list{
+    list-style-type: none;
+}
+.list li:hover{
+    opacity: 0.5;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer subs {
+    border: 2px slid white;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+
+.footer button {
+    height: 35px;
+    /* width: 200px; */
+    border-radius: 25px;
+    color: aliceblue;
+    background-color: #265abb;
+    border: 3px solid white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.btn_img div img {
+    display: flex;
+    display: inline-block;
+    justify-content: none;
+    align-items: end;
+    margin: -5%;
+}
+
+.btn_img div img:hover {
+    opacity: 0.5;
+}
+
+.footer button:hover {
+    /* opacity: 0.5px; */
+    background-color: white;
+    color: #265abb;
+}
+
+.footer img {
+    margin-left: 20px;
+    width: 90px;
+}
+
+.footer img:hover {
+    opacity: 0.5;
+}
